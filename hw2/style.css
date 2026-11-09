@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #263238;
+    background-color: #f1f4f6;
+    margin: 30px;
+}
+
+h1 {
+    color: #174a6e;
+}
+
+.event-card {
+    background-color: white;
+    padding: 20px;
+    border: 1px solid #cbd5dc;
+    margin-bottom: 25px;
+}
+
+.service-form {
+    background-color: #ffffff;
+    padding: 20px;
+    border: 1px solid #cbd5dc;
+    margin-top: 20px;
+}
+
+.error {
+    color: #b00020;
+}
+
+.json-result {
+    background-color: #eef2f5;
+    padding: 10px;
+    border: 1px solid #cbd5dc;
+    overflow-wrap: anywhere;
+}
